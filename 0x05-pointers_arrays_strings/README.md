@@ -20,6 +20,6 @@
 
 100-atoi.c - a function that convert a string to an integer. 
 
-101-keygen.c - Create a program that generates random valid passwords for the program 101-crackme.
+101-keygen.c - a program that generates random valid passwords for the program 101-crackme.
 
 
