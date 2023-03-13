@@ -10,7 +10,7 @@
 char *argstostr(int ac, char **av)
 {
 	char *ar, *str;
-	int i, j, cont;
+	int i, j, cont = 0;
 
 	if (ac == 0 || av == NULL)
 		return (NULL);
@@ -43,4 +43,3 @@ char *argstostr(int ac, char **av)
 	}
 	return (str);
 }
-
